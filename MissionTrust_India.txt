@@ -24,11 +24,22 @@ Voice:
 Overlay: company logos in a sequence, followed by ambiance shots
 Voice:
 	"MissionTrust India, LIGHT FOR THE WORLD and the SwissRE Foundation have committed themselves to conduct and develop a program creating and supporting medical eye-care in rural areas of Meghalaya. Community Outreach camps like this one are an integral part of the project's strategy: 
-	Our goal is to provide medical service and comprehensive education in otherwise underserved remote areas of Meghalaya. Together with schools and local communities 
+	Our goal is to provide medical service and comprehensive education in otherwise underserved remote areas of Meghalaya. 80% of blindness in Meghalaya is preventable. The most common reasons for preventable blindness are vitamin defficency and missing knowledge on the nator and symptoms of cureable ailments like trachoma or cataract. Comprehensible medical education therefore plays a crucial role in blindness prevention and the quality of first level local treatment. "
 	
-	80% of blindness in Meghalaya is preventable. The most common reasons for preventable blindness are vitamin defficency and missing knowledge on the nator and symptoms of cureable ailments like trachoma or cataract. Comprehensible medical education therefore plays a crucial role in blindness prevention and the quality of first level local treatment. 
-	
-	Dr S
-	
-80 Percent of the people living in Meghalaya are directly depending on agriculture for their own livelihood." 
+PAL video-boxes + screenshots meghalaya newspapers, rolling list of eye camps mentioned in progress reports. 
+Voice: 
+	"Dr S. and his team are highly experienced and motivated professionals; However: Getting in contact with local schools and communities and putting together Eye Health Care Camps hasn't ever become a routine task. It's a tight schedule for usually just two or three days: 
+	[Pause + ambiance]
+	- ophtamologic screenings
+	- comprehensive eye care services
+	- training of teachers and community leaders
+	- free surgeries to restore visual impairment due to avoidable causes
+	- organisation of transport for patients who are referred to the eye clinic in Shilong
+
+Human Interest stories, one per project goal:
+	- movie shots, boxed
+	- 2-3 photos of person
+	- XY came to... (story) -> She is one of Z people screened for [--> ophtamologic screenings) 
+
+We want to thank MissionTrust and all of its employees for their passion 
 
