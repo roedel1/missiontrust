@@ -3,16 +3,17 @@ Lang: EN
 
 // Stuff: 
 Videoformat: --> Web, short slider
-DVD -> 720 x 576 interlaced. -> build a bux, use images slider
+DVD -> 720 x 576 interlaced. -> build a box, use images slider
+sequence listing noted
 
 // Storyline: 
 
 
-3 case studies 
+project description, case studies and 
 [ken burns slides + data]
 
 project goals achieved: 
-hard facts + Bilder
+hard facts,  + Bilder
 
 
 World Map, LFDW-Design, zoom in to Meghalaya
@@ -41,5 +42,8 @@ Human Interest stories, one per project goal:
 	- 2-3 photos of person
 	- XY came to... (story) -> She is one of Z people screened for [--> ophtamologic screenings) 
 
-We want to thank MissionTrust and all of its employees for their passion 
+Thanks MissionTrust and all of its employees for their passion. [Logo MissionTrust]
+Thanks to the SwissRE Foundation for their initiative and continued supporting [Logo SwissRE-F]
+Together we are strong -> LIGHT-Finish. 
+
 
