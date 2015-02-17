@@ -25,9 +25,10 @@ Overlay: company logos in a sequence, followed by ambiance shots
 Voice:
 	"MissionTrust India, LIGHT FOR THE WORLD and the SwissRE Foundation have committed themselves to conduct and develop a program creating and supporting medical eye-care in rural areas of Meghalaya. Community Outreach camps like this one are an integral part of the project's strategy: 
 	Our goal is to provide medical service and comprehensive education in otherwise underserved remote areas of Meghalaya. Together with schools and local communities 
-
 	
+	80% of blindness in Meghalaya is preventable. The most common reasons for preventable blindness are vitamin defficency and missing knowledge on the nator and symptoms of cureable ailments like trachoma or cataract. Comprehensible medical education therefore plays a crucial role in blindness prevention and the quality of first level local treatment. 
+	
+	Dr 
 	
 80 Percent of the people living in Meghalaya are directly depending on agriculture for their own livelihood." 
-
 
